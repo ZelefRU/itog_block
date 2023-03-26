@@ -1,0 +1,15 @@
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.csproj.AssemblyReference.cache
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.AssemblyInfoInputs.cache
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.AssemblyInfo.cs
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.csproj.CoreCompileInputs.cache
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\bin\Debug\net7.0\TaskProgram.exe
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\bin\Debug\net7.0\TaskProgram.deps.json
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\bin\Debug\net7.0\TaskProgram.runtimeconfig.json
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\bin\Debug\net7.0\TaskProgram.dll
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\bin\Debug\net7.0\TaskProgram.pdb
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.dll
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\refint\TaskProgram.dll
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.pdb
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\TaskProgram.genruntimeconfig.cache
+C:\Users\crazz\RiderProjects\itog_block\TaskProgram\obj\Debug\net7.0\ref\TaskProgram.dll
