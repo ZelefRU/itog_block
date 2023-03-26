@@ -36,4 +36,15 @@ class Program
         }
         return resultArray;
     }
+
+    static void PrintArray(string[] array)
+    {
+        Console.Write("Out array: [");
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.Write(array[i] + " ");
+        }
+
+        Console.Write("]\n");
+    }
 } 
