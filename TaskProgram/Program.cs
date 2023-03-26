@@ -15,6 +15,10 @@ class Program
         string[] array1 = new string[] {"hello", "2", "world", ":-)"};
         string[] array2 = new string[] {"1234", "1567", "-2", "computer science"};
         string[] array3 = new string[] {"Russia", "Denmark", "Kazan"};
+        
+        PrintArray(FilterThreeSybmolArray(array1));
+        PrintArray(FilterThreeSybmolArray(array2));
+        PrintArray(FilterThreeSybmolArray(array3));
     }
     
     static string[] FilterThreeSybmolArray(string[] array)
