@@ -33,6 +33,7 @@ class Program
                 countItem++;
             }
         }
+        
         string[] resultArray = new string[countItem];
         for(int i = 0; i < countItem; i++)
         {
